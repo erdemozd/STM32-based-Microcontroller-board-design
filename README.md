@@ -1,6 +1,5 @@
 
-STM32F042G6U6 Microcontroller Board Design Project
-Overview
+
 This repository contains the hardware design files for a custom microcontroller board based on the STM32F042G6U6. The board includes the Bosch BMI088 Inertial Measurement Unit (IMU) as a peripheral, a USB Type-C connection, and a serial debug header.
 
 Features
